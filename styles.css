@@ -1,0 +1,16 @@
+html {
+    font-family: 'Linux Libertine', 'Times New Roman', 'Times', serif;
+    font-size: 17pt;
+    background-color: seagreen;
+    color: white;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+body {
+    margin: auto;
+    margin-top: 50px;
+    max-width: 500px;
+}
